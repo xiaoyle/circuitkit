@@ -16,7 +16,13 @@ CircuitKit 用于解决电子工程学习和基础电路设计中的常见计算
 
 ## 项目截图
 
-TODO：补充正式项目截图。
+### 首页
+
+![CircuitKit 首页](docs/images/circuitkit-home.png)
+
+### Op-Amp Gain Calculator
+
+![CircuitKit Op-Amp Gain Calculator](docs/images/circuitkit-op-amp.png)
 
 ## 五个计算器
 
