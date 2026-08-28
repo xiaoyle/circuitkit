@@ -4,7 +4,7 @@ CircuitKit is a collection of practical electronics engineering calculators for 
 
 ## Live demo
 
-The public Netlify URL will be added here after the first deployment.
+[https://circuitkit.netlify.app/](https://circuitkit.netlify.app/)
 
 ## Screenshot
 
@@ -22,11 +22,13 @@ The primary project screenshot will show the CircuitKit homepage and its five-to
 
 ## Calculators
 
-1. **Voltage Divider** — output voltage and divider current
-2. **LED Resistor** — theoretical resistance, E12/E24 recommendation, actual current, deviation, and power
-3. **RC Filter** — first-order low-pass/high-pass cutoff frequency and time constant
-4. **Op-Amp Gain** — ideal inverting and non-inverting closed-loop gain
-5. **RLC Resonance** — ideal LC resonant and angular resonant frequency
+All five MVP calculators are complete and available in the live application.
+
+1. **Voltage Divider** — Complete — output voltage and divider current
+2. **LED Resistor** — Complete — theoretical resistance, E12/E24 recommendation, actual current, deviation, and power
+3. **RC Filter** — Complete — first-order low-pass/high-pass cutoff frequency and time constant
+4. **Op-Amp Gain** — Complete — ideal inverting and non-inverting closed-loop gain
+5. **RLC Resonance** — Complete — ideal LC resonant and angular resonant frequency
 
 ## Tech stack
 
@@ -82,7 +84,7 @@ Netlify can detect this Next.js project automatically. Use `npm run build` as th
 
 ## Roadmap
 
-- Add a production screenshot and live-demo URL after the first deployment
+- Add a production screenshot from the live deployment
 - Add source references for calculator formulas and engineering assumptions
 - Add optional E-series guidance to more component calculators
 - Explore localization after the English MVP is stable
