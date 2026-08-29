@@ -50,12 +50,27 @@ html {
 }
 
 body {
+  min-height: 100vh;
   min-height: 100svh;
   margin: 0;
   background: var(--paper);
   color: var(--ink);
   font-family: var(--font-manrope);
   text-rendering: optimizeLegibility;
+}
+
+.min-h-svh {
+  min-height: 100vh;
+  min-height: 100svh;
+}
+
+.skip-link {
+  transform: translateY(-5rem);
+  transition: transform 180ms ease-out;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
 }
 
 ::selection {

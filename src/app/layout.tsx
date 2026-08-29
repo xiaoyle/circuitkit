@@ -50,7 +50,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body className="antialiased">
         <a
           href="#main-content"
-          className="fixed left-4 top-3 z-50 -translate-y-20 rounded-md bg-ink px-4 py-2 text-sm font-semibold text-white outline-none transition-transform focus:translate-y-0 focus:ring-2 focus:ring-accent focus:ring-offset-2"
+          className="skip-link fixed left-4 top-3 z-50 rounded-md bg-ink px-4 py-2 text-sm font-semibold text-white outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2"
         >
           Skip to content
         </a>

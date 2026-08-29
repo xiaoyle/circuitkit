@@ -6,6 +6,13 @@
   "engines": {
     "node": ">=20.9.0"
   },
+  "browserslist": [
+    "chrome >= 88",
+    "edge >= 88",
+    "firefox >= 78",
+    "safari >= 14",
+    "ios_saf >= 14"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
